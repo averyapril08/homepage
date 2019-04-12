@@ -1,5 +1,5 @@
 {
-  "name": "me",
+  "name": "homepage",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liuliuivy/me.git"
+    "url": "git+https://github.com/averyapril08/homepage.git"
   },
-  "author": "",
+  "author": "avery",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/liuliuivy/me/issues"
+    "url": "https://github.com/averyapril08/homepage/issues"
   },
-  "homepage": "https://liuliuivy.github.io/me"
+  "homepage": "https://averyapril08.github.io/homepage"
 }
